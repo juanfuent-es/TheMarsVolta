@@ -1,315 +1,187 @@
-# Contenido estructurado
+# Into The Mars Volta
 
-## De la intención de comunicación a la estructura de información
+**Cada álbum abre una puerta distinta.**
 
-**Organizar antes de diseñar.**
+Una entrada al universo de The Mars Volta a través de las historias,
+ideas y transformaciones detrás de cada disco.
 
-Esta guía propone un proceso para **investigar, seleccionar, jerarquizar y documentar contenido en Markdown** antes de convertirlo en un documento digital. El objetivo es producir información clara, consistente, reutilizable y fácil de interpretar por personas, sistemas digitales y asistentes de inteligencia artificial.
+> Las imágenes enlazadas corresponden a portadas disponibles en fuentes
+> de archivo/ediciones oficiales. Los enlaces de Cover Art Archive
+> solicitan la versión de 1200 px.
 
----
+------------------------------------------------------------------------
 
-## Índice
+## De-Loused in the Comatorium
 
-1. [¿Qué es el contenido estructurado?](#1-qué-es-el-contenido-estructurado)
-2. [Intención de comunicación](#2-intención-de-comunicación)
-3. [Del universo al alcance](#3-del-universo-al-alcance)
-4. [Investigar y seleccionar](#4-investigar-y-seleccionar)
-5. [Unidades, atributos y relaciones](#5-unidades-atributos-y-relaciones)
-6. [Jerarquizar el contenido](#6-jerarquizar-el-contenido)
-7. [Identidad, intención y alcance](#7-identidad-intención-y-alcance)
-8. [Markdown como especificación](#8-markdown-como-especificación)
-9. [Construir un sistema de información](#9-construir-un-sistema-de-información)
-10. [Trabajar con inteligencia artificial](#10-trabajar-con-inteligencia-artificial)
-11. [Proceso de trabajo](#11-proceso-de-trabajo)
-12. [Criterios de validación](#12-criterios-de-validación)
+**2003 · Un viaje hacia el interior de una mente en coma.**
 
----
+![Portada de De-Loused in the
+Comatorium](https://coverartarchive.org/release/78d49ab6-02fc-4542-8b3d-abdcb8838cb0/front-1200)
 
-## 1. ¿Qué es el contenido estructurado?
+### Historia
 
-Un documento digital no comienza con código, color o tipografía. Comienza con una pregunta:
+Inspirado en la vida y muerte de Julio Venegas, el debut convierte la
+historia de Cerpin Taxt y su estado de coma en el origen del lenguaje
+narrativo y musical de The Mars Volta.
 
-> **¿Qué queremos comunicar?**
+### Posibles canciones
 
-Una colección de datos no constituye por sí misma un mensaje. Los datos adquieren sentido cuando se **seleccionan, nombran, agrupan, ordenan y relacionan** de acuerdo con una intención.
+-   Son et lumière / Inertiatic ESP
 
-El **contenido estructurado** es información dividida en partes identificables, organizadas mediante una jerarquía y descritas con reglas consistentes. No se piensa como una página terminada, sino como un sistema de piezas que pueden comprenderse, actualizarse, reutilizarse y transformarse.
+------------------------------------------------------------------------
 
-Cada pieza debe responder:
+## Frances the Mute
 
-1. **¿Qué información contiene?**
-2. **¿Qué función cumple?**
-3. **¿Cómo se relaciona con las demás?**
+**2005 · Un diario perdido abre una genealogía de secretos.**
 
-Para trabajar con claridad debemos distinguir tres capas:
+![Portada de Frances the
+Mute](https://coverartarchive.org/release/e94419f0-b909-4f0b-8aa5-0489fcb093c4/front-1200)
 
-- **Contenido:** lo que el documento comunica.
-- **Estructura:** cómo se organizan y relacionan sus partes.
-- **Presentación:** cómo se hacen visibles mediante tipografía, color, espacio y composición.
+### Historia
 
-En esta etapa trabajaremos con **contenido y estructura**. La presentación visual vendrá después.
+Un diario encontrado por Jeremy Ward dentro de un automóvil inspira una
+historia sobre adopción, identidad y búsqueda familiar. El disco expande
+ese misterio entre personajes, salsa, jazz latino y extensos pasajes
+progresivos.
 
----
+### Posibles canciones
 
-## 2. Intención de comunicación
+-   Miranda That Ghost Just Isn't Holy Anymore
 
-La **intención de comunicación** es la idea que dirige el documento. No es solamente el tema: es la lectura específica que queremos construir sobre él.
+------------------------------------------------------------------------
 
-Debe definir:
+## Amputechture
 
-- **Tema:** de qué trata.
-- **Enfoque:** desde qué perspectiva se aborda.
-- **Propósito:** para qué existe.
-- **Audiencia:** para quién se construye.
-- **Transformación:** qué debería comprender, sentir, cuestionar o hacer el usuario.
-- **Tono:** qué actitud tendrá la comunicación.
+**2006 · Parábolas religiosas dentro de una arquitectura imposible.**
 
-La intención permite decidir qué información pertenece al proyecto y cuál debe quedar fuera. También orienta la jerarquía, el lenguaje y las relaciones que deberán hacerse visibles.
+![Portada de
+Amputechture](https://coverartarchive.org/release/d9d9cb46-102c-4395-97f3-7279949af4a7/front-1200)
 
-> **La intención no aparece al final de la estructura: la estructura nace de ella.**
+### Historia
 
----
+La banda abandona una historia única para construir escenas sobre
+religión, culpa, fanatismo y miedo a Dios. John Frusciante asume gran
+parte de las guitarras mientras las composiciones se vuelven más
+abiertas, monumentales e interpretativas.
 
-## 3. Del universo al alcance
+### Posibles canciones
 
-Todo tema forma parte de un universo más amplio. Intentar comunicarlo por completo suele producir documentos extensos y dispersos.
+-   Viscera Eyes
 
-**Delimitar** significa establecer el territorio concreto del proyecto:
+------------------------------------------------------------------------
 
-- qué aspecto se investigará;
-- qué periodo, contexto o categoría se incluirá;
-- qué preguntas busca responder;
-- qué nivel de profundidad tendrá;
-- qué contenido queda fuera.
+## The Bedlam in Goliath
 
-Delimitar no empobrece la información. Le proporciona dirección y permite investigar con mayor profundidad.
+**2008 · Un objeto maldito convierte el estudio en campo de batalla.**
 
-El alcance debe ser suficientemente específico para sostener una lectura clara y suficientemente amplio para que la intención pueda desarrollarse.
+![Portada de The Bedlam in
+Goliath](https://coverartarchive.org/release/b83f9f2b-1fa9-37e7-b040-b8626b7ee498/front-1200)
 
----
+### Historia
 
-## 4. Investigar y seleccionar
+Un tablero similar a una ouija adquirido por Omar en Jerusalén origina
+la mitología de Goliath. Supuestas comunicaciones, accidentes y
+problemas durante la grabación alimentan la leyenda de un disco poseído
+y deliberadamente caótico.
 
-La estructura debe surgir del conocimiento del tema, no de una plantilla impuesta antes de investigar.
+### Posibles canciones
 
-La investigación permite descubrir conceptos, entidades, atributos, categorías, relaciones, patrones y vacíos de información. Durante este proceso conviene distinguir:
+-   Goliath
 
-- **Hechos:** información verificable mediante fuentes.
-- **Interpretaciones:** lecturas argumentadas a partir de los hechos.
-- **Decisiones editoriales:** elecciones sobre qué incluir y cómo organizarlo.
-- **Pendientes:** datos incompletos, dudosos o contradictorios.
+------------------------------------------------------------------------
 
-Toda información importante debe conservar su **fuente, fecha y estado de verificación**. Una estructura consistente pierde valor si contiene datos imprecisos o imposibles de rastrear.
+## Octahedron
 
-Investigar amplía el universo; estructurar exige reducirlo. Cada pieza puede clasificarse como:
+**2009 · El silencio aparece después del exceso.**
 
-- **Esencial:** necesaria para comprender la intención.
-- **De apoyo:** amplía, demuestra o contextualiza.
-- **Complementaria:** enriquece, pero puede omitirse.
-- **Excluida:** repite, desvía o pertenece a otro alcance.
+### Historia
 
-> **Incluir más información no significa comunicar mejor.**
+Después de la saturación de *The Bedlam in Goliath*, la banda decide
+trabajar contra su propio exceso. Menos integrantes, más espacio y
+canciones contenidas convierten su supuesto álbum "acústico" en un
+ejercicio de reducción.
 
----
+### Posibles canciones
 
-## 5. Unidades, atributos y relaciones
+-   Teflon
 
-Una **unidad de contenido** es una pieza del sistema que puede identificarse y comprenderse por sí misma: una persona, obra, acontecimiento, lugar, concepto o proceso.
+------------------------------------------------------------------------
 
-Cada unidad necesita:
+## Noctourniquet
 
-- una identidad clara;
-- una función dentro del documento;
-- atributos definidos;
-- relaciones con otras unidades;
-- reglas sobre qué información es obligatoria u opcional.
+**2012 · Identidad, muerte y renacimiento antes de la ruptura.**
 
-Para modelar el contenido debemos reconocer:
+![Portada de
+Noctourniquet](https://coverartarchive.org/release/1aaa76ad-87c9-42d4-a49b-c34a76dc8054/front-1200)
 
-- **Entidad:** elemento principal que se documenta.
-- **Atributo:** característica que describe a la entidad.
-- **Categoría:** criterio para agrupar entidades.
-- **Relación:** vínculo entre elementos o conceptos.
-- **Metadato:** información que identifica o administra el contenido.
-- **Acción:** posibilidad que se ofrece al usuario.
+### Historia
 
-Nombrar estas partes reduce ambigüedades y permite construir un modelo repetible. En lugar de redactar cada página desde cero, creamos una estructura capaz de recibir distintos contenidos sin perder coherencia.
+Inspirado por Solomon Grundy y el mito griego de Jacinto, el disco
+explora identidad y transformación mediante sintetizadores y nuevas
+estructuras. Esa mutación aparece justo antes de la separación de Omar,
+Cedric y The Mars Volta.
 
----
+### Posibles canciones
 
-## 6. Jerarquizar el contenido
+-   Empty Vessels Make the Loudest Sound
 
-La **jerarquía** establece niveles de importancia y dependencia. Indica qué presenta el documento, qué ideas lo desarrollan y qué información las amplía.
+------------------------------------------------------------------------
 
-Una jerarquía clara permite:
+## The Mars Volta
 
-- reconocer el tema principal;
-- recorrer el documento sin leerlo completo;
-- comprender qué ideas dependen de otras;
-- distinguir contenido principal y complementario;
-- traducir posteriormente la estructura a HTML semántico.
+**2022 · Regresar no significa reconstruir el pasado.**
 
-Los títulos identifican niveles; los párrafos desarrollan ideas; las listas agrupan elementos equivalentes y el énfasis señala conceptos relevantes sin crear nuevas secciones.
+![Portada de The Mars
+Volta](https://coverartarchive.org/release/a3668e48-5548-4739-89c8-37fc8dabdcba/front-1200)
 
-La jerarquía no consiste en hacer una frase visualmente más grande. Consiste en asignarle una **función estructural**.
+### Historia
 
-El índice es una prueba de esa organización. Si al leer únicamente los títulos y subtítulos no se comprende el recorrido, la arquitectura todavía necesita trabajo.
+Una década después, el álbum homónimo funciona como una nueva
+presentación de la banda. Canciones más breves, directas y personales
+sustituyen parte de la antigua grandilocuencia por pop, soul,
+electrónica y ritmos caribeños.
 
----
+### Posibles canciones
 
-## 7. Identidad, intención y alcance
+-   Graveyard Love
 
-La entrada de un documento debe comunicar rápidamente tres funciones:
+------------------------------------------------------------------------
 
-1. **Identidad:** qué es.
-2. **Intención:** qué idea lo orienta.
-3. **Alcance:** qué encontrará el usuario y para qué le servirá.
+## Que Dios Te Maldiga Mi Corazón
 
-Estas funciones pueden expresarse mediante **título, tagline y descriptor**, pero no constituyen una fórmula obligatoria.
+**2023 · Las mismas canciones revelan un cuerpo distinto.**
 
-### Título
+![Portada de Que Dios Te Maldiga Mi
+Corazón](https://coverartarchive.org/release/405d9b8d-6ea8-4810-8b5a-782fc3b927c5/front-1200)
 
-Identifica el proyecto o documento. Debe ser breve y reconocible.
+### Historia
 
-### Tagline
+Las catorce canciones del álbum anterior son reconstruidas
+acústicamente. Al retirar buena parte de su producción eléctrica, la
+banda hace visibles otras melodías, estructuras y raíces latinas que ya
+habitaban las composiciones.
 
-Condensa la intención en una frase breve. Posiciona el proyecto sin repetir el título.
+### Posibles canciones
 
-### Descriptor
+-   Que dios te maldiga mi corazón
 
-Explica con mayor precisión el tema, el enfoque y el propósito.
+------------------------------------------------------------------------
 
-Según el tipo de documento, esta entrada también puede adoptar otras formas: título y resumen, categoría y título, pregunta y respuesta o título, metadatos e introducción.
+## Lucro sucio; los ojos del vacío
 
-La estructura adecuada no depende de una plantilla universal, sino de la información que el usuario necesita comprender primero.
+**2025 · Fragmentos transmitidos desde un territorio todavía
+desconocido.**
 
----
+### Historia
 
-## 8. Markdown como especificación
+Dieciocho piezas breves vuelven a desarmar la forma de la banda entre
+jazz, dub, electrónica, psicodelia y ruido. Cuando su nuevo lenguaje
+empezaba a resultar reconocible, The Mars Volta vuelve a transformarlo.
 
-Markdown es un formato de texto plano para escribir documentos estructurados mediante marcas legibles. En este proyecto funcionará como una **especificación de información** entre la investigación y la implementación.
+### Posibles canciones
 
-Cada recurso debe cumplir una función:
-
-- **Títulos y subtítulos:** representan niveles jerárquicos.
-- **Negritas:** destacan conceptos o decisiones centrales.
-- *Itálicas:* introducen un énfasis moderado o una variación de voz.
-- **Párrafos:** desarrollan una idea a la vez.
-- **Listas:** agrupan pasos, condiciones o elementos equivalentes.
-- **Citas:** aíslan principios, preguntas o fragmentos provenientes de una fuente.
-- **Enlaces:** conectan con fuentes, referencias o acciones.
-- **Imágenes:** aportan información y necesitan descripción y procedencia.
-
-La **negrita comunica importancia, no decoración**. La *itálica modifica el tono o énfasis de una frase*. Los encabezados no deben utilizarse sólo para producir diferencias de tamaño.
-
-Markdown no define la apariencia final. Hace explícita la función de cada parte para que el contenido pueda leerse, revisarse, versionarse y transformarse.
-
----
-
-## 9. Construir un sistema de información
-
-Una estructura se convierte en **sistema** cuando establece reglas que pueden aplicarse a múltiples unidades.
-
-El sistema define:
-
-- qué unidades y atributos existen;
-- cuáles son obligatorios u opcionales;
-- cómo se nombran y ordenan;
-- qué relaciones pueden establecerse;
-- qué reglas deben mantenerse.
-
-Debe ser **estable en sus reglas y flexible en sus contenidos**. La consistencia permite reconocer un patrón; la homogeneidad vuelve comparables las unidades y la variación conserva sus diferencias reales.
-
-Separar contenido y presentación facilita modificar el diseño sin reescribir la información y producir distintas interfaces desde una misma fuente.
-
-Para poder migrar, el contenido debe ser:
-
-- **modular:** cada unidad puede trasladarse;
-- **explícito:** su función está nombrada;
-- **predecible:** conserva reglas;
-- **trazable:** sus fuentes pueden verificarse;
-- **actualizable:** una parte puede cambiar sin reconstruir todo.
-
-> **El diseño visual hace perceptible la estructura; no debe inventarla después.**
-
----
-
-## 10. Trabajar con inteligencia artificial
-
-La inteligencia artificial puede investigar, sintetizar, clasificar, detectar inconsistencias y transformar contenido. Para obtener resultados consistentes necesita instrucciones que definan:
-
-- intención, alcance y audiencia;
-- estructura y jerarquía;
-- criterios de inclusión y exclusión;
-- fuentes y restricciones;
-- formato y resultado esperado.
-
-La IA puede asistir en la ejecución, pero no sustituye las decisiones del autor. La responsabilidad sobre la intención, la veracidad y la pertinencia permanece en quien construye el documento.
-
-El autor debe definir el enfoque, verificar los datos, distinguir hechos de interpretaciones, revisar omisiones y documentar el uso de IA.
-
-> **La calidad del resultado depende de la calidad de las decisiones que el prompt logra expresar.**
-
----
-
-## 11. Proceso de trabajo
-
-1. **Reconocer:** identificar el universo del tema.
-2. **Delimitar:** definir el alcance.
-3. **Investigar:** reunir información y fuentes.
-4. **Formular:** establecer intención, audiencia y tono.
-5. **Seleccionar:** conservar lo que sostiene la intención.
-6. **Modelar:** definir unidades, atributos y relaciones.
-7. **Jerarquizar:** ordenar por importancia y dependencia.
-8. **Escribir:** documentar la estructura en Markdown.
-9. **Revisar:** comprobarla mediante el índice.
-10. **Validar:** verificar claridad, consistencia y fuentes.
-11. **Transformar:** utilizar el documento como origen de otros formatos.
-
----
-
-## 12. Criterios de validación
-
-Antes de considerar terminado el documento, debemos comprobar:
-
-### Intención y alcance
-
-- ¿Comunica una idea específica y mantiene el enfoque?
-- ¿La audiencia, el propósito y los límites son claros?
-- ¿Toda la información incluida cumple una función?
-
-### Investigación
-
-- ¿Los datos y fuentes pueden verificarse?
-- ¿Se distinguen hechos, interpretaciones y pendientes?
-
-### Estructura
-
-- ¿Cada sección y unidad cumple una función?
-- ¿Los atributos equivalentes conservan nombres consistentes?
-- ¿El índice permite comprender el recorrido?
-- ¿La jerarquía puede trasladarse a HTML?
-
-### Reutilización e IA
-
-- ¿El contenido puede separarse de su presentación?
-- ¿La estructura puede aplicarse a otras unidades y formatos?
-- ¿Las instrucciones dadas a la IA son claras?
-- ¿El resultado fue revisado y no presenta invenciones como hechos?
-
----
-
-## Principio general
-
-> **La intención determina qué información necesitamos. La estructura organiza sus relaciones. La jerarquía establece cómo se comprende. Markdown documenta esas decisiones para que puedan revisarse, reutilizarse y transformarse.**
-
-Un documento digital comienza cuando una colección de datos se convierte en una estructura capaz de comunicar con claridad.
-
----
-
-## Referencias conceptuales
-
-- [An introduction to structured content — Digital.gov](https://digital.gov/resources/an-introduction-to-structured-content)
-- [Writing for Web Accessibility — W3C Web Accessibility Initiative](https://www.w3.org/WAI/tips/writing/)
-- [CommonMark Specification](https://spec.commonmark.org/)
-
+-   Cue the Sun / Alba del orate
+-   Reina tormenta
+-   Enlazan las tinieblas
+-   Voice in My Knives
+-   Poseedora de mi sombra
