@@ -8,9 +8,13 @@
 */
 
 :root {
-  --color-background: #f4f4f0;
-  --color-text: #171717;
-  --color-accent: #5b3df5;
+  --background: #F2F1ED;
+  --text: #111111;
+  --accent: #E21B16;
+
+  --background: #11100E;
+  --text: #E8E4DA;
+  --accent: #FF4A2D;
 
   --font-family-base: system-ui, Arial, Helvetica, sans-serif;
 
@@ -43,8 +47,8 @@
 body {
   margin: 0;
 
-  background-color: var(--color-background);
-  color: var(--color-text);
+  background-color: var(--background);
+  color: var(--text);
 
   font-family: var(--font-family-base);
   font-size: var(--font-size-body);
@@ -92,7 +96,7 @@ h3 {
 */
 
 a {
-  color: var(--color-accent);
+  color: var(--accent);
 }
 
 
@@ -146,4 +150,8 @@ nav {
 
 nav a {
   padding: 0.5rem;
+}
+
+img {
+  max-width: 100%;
 }
