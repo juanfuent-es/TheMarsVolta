@@ -19,3 +19,5 @@ Cada elemento debe incluir los siguientes campos:
 - Historia
 
 Todos los elementos deben mantener exactamente la misma estructura, repite la información de cada álbum en el orden que se le haya indicado.
+
+
