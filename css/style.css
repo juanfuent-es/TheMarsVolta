@@ -16,7 +16,10 @@
   --text: #E8E4DA;
   --accent: #FF4A2D;
 
-  --font-family-base: system-ui, Arial, Helvetica, sans-serif;
+  --font-family-base: "Archivo", Arial, Helvetica, sans-serif;
+  --font-secondary: "IBM Plex Mono", "Courier New", monospace;
+   --font-primary: "Archivo", Arial, Helvetica, sans-serif;
+  --font-secondary: "Space Mono", "Courier New", monospace;
 
   --font-size-body: 1rem;
   --font-size-h1: 3rem;
