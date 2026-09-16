@@ -55,6 +55,7 @@ body {
 
   font-family: var(--font-family-base);
   font-size: var(--font-size-body);
+  line-height: 1.65;
 }
 
 header {
@@ -64,6 +65,29 @@ header {
 
 header p {
   text-wrap-style: balance;
+}
+
+/*
+  ============================================================
+  LECTURA EDITORIAL
+  ============================================================
+
+  max-width en unidades ch limita el ancho de línea a una
+  medida cómoda de lectura, sin importar el ancho del contenedor.
+*/
+
+p,
+li,
+blockquote {
+  max-width: 70ch;
+  line-height: 1.75;
+  margin: 0 auto;
+}
+
+h2,
+h3 {
+  line-height: 1.3;
+  max-width: 70ch;
 }
 
 /*
@@ -82,7 +106,11 @@ h1 {
 }
 
 h2 {
-  font-size: var(--font-size-h2);
+  font-size: 7vw;
+  color: var(--accent);
+  text-transform: uppercase;
+  line-height: 1em;
+  margin-bottom: 0;
 }
 
 h3 {
@@ -119,10 +147,11 @@ a {
 */
 
 main {
-  width: 65%;
+  width: 80%;
   min-width: 290px;
-  max-width: 1240px;
+  max-width: 960px;
   margin: 0 auto;
+  text-align: center;
 }
 
 
@@ -140,6 +169,19 @@ footer {
 section {
   margin-bottom: 2rem;
   padding-top: 2em;
+}
+
+/*
+  Listas de enlaces (Spotify, setlist) dentro de cada álbum.
+*/
+.enlaces-album {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.enlaces-album li {
+  margin-bottom: 0.5rem;
 }
 
 nav {
